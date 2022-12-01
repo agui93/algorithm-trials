@@ -1,3 +1,5 @@
 *.toml
 .idea
+*.iml
+/vendor
 

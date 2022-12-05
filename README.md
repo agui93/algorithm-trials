@@ -63,6 +63,36 @@ Algorithms
 | [验证二叉搜索树](https://leetcode.cn/problems/validate-binary-search-tree/) | [todo](./questions) | |
 | [不同的二叉搜索树](https://leetcode.cn/problems/unique-binary-search-trees/) | [todo](./questions) | |
 | [不同的二叉搜索树 II](https://leetcode.cn/problems/unique-binary-search-trees-ii/) | [todo](./questions) | |
+| [所有可能的路径](https://leetcode.cn/problems/all-paths-from-source-to-target/) | [todo](./questions) | |
+| [课程表](https://leetcode.cn/problems/course-schedule/) | [todo](./questions) | |
+| [课程表 II](https://leetcode.cn/problems/course-schedule-ii/) | [todo](./questions) | |
+| [判断二分图](https://leetcode.cn/problems/is-graph-bipartite/) | [todo](./questions) | |
+| [可能的二分法](https://leetcode.cn/problems/possible-bipartition/) | [todo](./questions) | |
+| [⽆向图中的连通分量数⽬](https://leetcode.cn/problems/number-of-connected-components-in-an-undirected-graph/) | [todo](./questions) | |
+| [被围绕的区域](https://leetcode.cn/problems/surrounded-regions/) | [todo](./questions) | |
+| [等式方程的可满足性](https://leetcode.cn/problems/satisfiability-of-equality-equations/) | [todo](./questions) | |
+| [以图判树](https://leetcode.cn/problems/graph-valid-tree/) | [todo](./questions) | |
+| [最低成本联通所有城市](https://leetcode.cn/problems/connecting-cities-with-minimum-cost/) | [todo](./questions) | |
+| [连接所有点的最小费用](https://leetcode.cn/problems/min-cost-to-connect-all-points/) | [todo](./questions) | |
+| [网络延迟时间](https://leetcode.cn/problems/network-delay-time/) | [todo](./questions) | |
+| [概率最大的路径](https://leetcode.cn/problems/path-with-maximum-probability/) | [todo](./questions) | |
+| [最小体力消耗路径](https://leetcode.cn/problems/path-with-minimum-effort/) | [todo](./questions) | |
+| [搜索名人](https://leetcode.cn/problems/find-the-celebrity/) | [todo](./questions) | |
+| [全排列](https://leetcode.cn/problems/permutations/) | [todo](./questions) | |
+| [N 皇后](https://leetcode.cn/problems/n-queens/) | [todo](./questions) | |
+| [划分为k个相等的子集](https://leetcode.cn/problems/partition-to-k-equal-sum-subsets/) | [todo](./questions) | |
+| [子集](https://leetcode.cn/problems/subsets/) | [todo](./questions) | |
+| [全排列](https://leetcode.cn/problems/permutations/) | [todo](./questions) | |
+| [组合](https://leetcode.cn/problems/combinations/) | [todo](./questions) | |
+| [岛屿数量](https://leetcode.cn/problems/number-of-islands/) | [todo](./questions) | |
+| [统计封闭岛屿的数目](https://leetcode.cn/problems/number-of-closed-islands/) | [todo](./questions) | |
+| [飞地的数量](https://leetcode.cn/problems/number-of-enclaves/) | [todo](./questions) | |
+| [岛屿的最大面积](https://leetcode.cn/problems/max-area-of-island/) | [todo](./questions) | |
+| [统计子岛屿](https://leetcode.cn/problems/count-sub-islands/) | [todo](./questions) | |
+| [不同的岛屿数量](https://leetcode.cn/problems/number-of-distinct-islands/) | [todo](./questions) | |
+| [二叉树的最小深度](https://leetcode.cn/problems/minimum-depth-of-binary-tree/) | [todo](./questions) | |
+| [打开转盘锁](https://leetcode.cn/problems/open-the-lock/) | [todo](./questions) | |
+| [滑动谜题](https://leetcode.cn/problems/sliding-puzzle/) | [todo](./questions) | |
 | [padding]() | [todo](./questions) | |
 | [padding]() | [todo](./questions) | |
 | [padding]() | [todo](./questions) | |
@@ -70,16 +100,6 @@ Algorithms
 | [padding]() | [todo](./questions) | |
 | [padding]() | [todo](./questions) | |
 | [padding]() | [todo](./questions) | |
-| [padding]() | [todo](./questions) | |
-| [padding]() | [todo](./questions) | |
-| [padding]() | [todo](./questions) | |
-| [padding]() | [todo](./questions) | |
-| [padding]() | [todo](./questions) | |
-| [padding]() | [todo](./questions) | |
-| [padding]() | [todo](./questions) | |
-| [padding]() | [todo](./questions) | |
-
-
 
 
 ## OTHER PADDINGS

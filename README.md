@@ -6,6 +6,7 @@ Algorithms
 
 |  LEETCODE QUESTION |  ANSWER    | TRICK |
 |  ----------------  |  --------  | --------- |
+| [斐波那契数](https://leetcode.cn/problems/fibonacci-number/) | [solution](./questions/fibonacci-number/solution.go) | |
 | [区域和检索 - 数组不可变](https://leetcode.cn/problems/range-sum-query-immutable/) | [solution](./questions/range-sum-query-immutable/solution.go) | 前缀和 |
 | [二维区域和检索 - 矩阵不可变](https://leetcode.cn/problems/range-sum-query-2d-immutable/) | [solution](./questions/range-sum-query-2d-immutable/solution.go) | 前缀和 |
 | [区域和检索 - 数组可修改](https://leetcode.cn/problems/range-sum-query-mutable/) | [todo](./questions/range-sum-query-mutable/solution.go) |  |
@@ -93,6 +94,20 @@ Algorithms
 | [二叉树的最小深度](https://leetcode.cn/problems/minimum-depth-of-binary-tree/) | [todo](./questions) | |
 | [打开转盘锁](https://leetcode.cn/problems/open-the-lock/) | [todo](./questions) | |
 | [滑动谜题](https://leetcode.cn/problems/sliding-puzzle/) | [todo](./questions) | |
+| [零钱兑换](https://leetcode.cn/problems/coin-change/) | [solution](./questions/coin-change/solution.go) | 动态规划 |
+| [下降路径最小和](https://leetcode.cn/problems/minimum-falling-path-sum/) | [todo](./questions/minimum-falling-path-sum/solution.go) | 动态规划 |
+| [最长递增子序列](https://leetcode.cn/problems/longest-increasing-subsequence/) | [todo](./questions) | |
+| [最大子数组和](https://leetcode.cn/problems/maximum-subarray/) | [todo](./questions) | |
+| [最长公共子序列](https://leetcode.cn/problems/longest-common-subsequence/) | [todo](./questions) | |
+| [两个字符串的删除操作](https://leetcode.cn/problems/delete-operation-for-two-strings/) | [todo](./questions) | |
+| [两个字符串的最小ASCII删除和](https://leetcode.cn/problems/minimum-ascii-delete-sum-for-two-strings/) | [todo](./questions) | |
+| [编辑距离](https://leetcode.cn/problems/edit-distance/) | [todo](./questions) | |
+| [正则表达式匹配](https://leetcode.cn/problems/regular-expression-matching/) | [todo](./questions) | |
+| [零钱兑换 II](https://leetcode.cn/problems/coin-change-ii/) | [todo](./questions) | |
+| [分割等和子集](https://leetcode.cn/problems/partition-equal-subset-sum/) | [todo](./questions) | |
+| [padding]() | [todo](./questions) | |
+| [padding]() | [todo](./questions) | |
+| [padding]() | [todo](./questions) | |
 | [padding]() | [todo](./questions) | |
 | [padding]() | [todo](./questions) | |
 | [padding]() | [todo](./questions) | |
@@ -101,6 +116,16 @@ Algorithms
 | [padding]() | [todo](./questions) | |
 | [padding]() | [todo](./questions) | |
 
+
+**动态规划三要素**
+
+- 重叠⼦问题
+- 最优⼦结构 (子问题独立)
+- 状态转移方程
+    - 确定base case
+    - 确定状态: 即原问题和⼦问题中会变化的变量
+    - 确定选择: 导致状态产⽣变化的选择
+    - 确定定义: 备忘录 函数
 
 ## OTHER PADDINGS
 

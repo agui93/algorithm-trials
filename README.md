@@ -95,10 +95,10 @@ Algorithms
 | [打开转盘锁](https://leetcode.cn/problems/open-the-lock/) | [todo](./questions) | |
 | [滑动谜题](https://leetcode.cn/problems/sliding-puzzle/) | [todo](./questions) | |
 | [零钱兑换](https://leetcode.cn/problems/coin-change/) | [solution](./questions/coin-change/solution.go) | 动态规划 |
-| [下降路径最小和](https://leetcode.cn/problems/minimum-falling-path-sum/) | [todo](./questions/minimum-falling-path-sum/solution.go) | 动态规划 |
-| [最长递增子序列](https://leetcode.cn/problems/longest-increasing-subsequence/) | [todo](./questions) | |
+| [下降路径最小和](https://leetcode.cn/problems/minimum-falling-path-sum/) | [solution](./questions/minimum-falling-path-sum/solution.go) | 动态规划 |
+| [最长递增子序列](https://leetcode.cn/problems/longest-increasing-subsequence/) | [todo](./questions/longest-increasing-subsequence/solution.go) | |
 | [最大子数组和](https://leetcode.cn/problems/maximum-subarray/) | [todo](./questions) | |
-| [最长公共子序列](https://leetcode.cn/problems/longest-common-subsequence/) | [todo](./questions) | |
+| [最长公共子序列](https://leetcode.cn/problems/longest-common-subsequence/) | [solution](./questions/longest-common-subsequence/solution.go) | |
 | [两个字符串的删除操作](https://leetcode.cn/problems/delete-operation-for-two-strings/) | [todo](./questions) | |
 | [两个字符串的最小ASCII删除和](https://leetcode.cn/problems/minimum-ascii-delete-sum-for-two-strings/) | [todo](./questions) | |
 | [编辑距离](https://leetcode.cn/problems/edit-distance/) | [todo](./questions) | |
@@ -115,7 +115,23 @@ Algorithms
 | [padding]() | [todo](./questions) | |
 | [padding]() | [todo](./questions) | |
 | [padding]() | [todo](./questions) | |
-
+| [padding]() | [todo](./questions) | |
+| [padding]() | [todo](./questions) | |
+| [padding]() | [todo](./questions) | |
+| [递增的三元子序列](https://leetcode.cn/problems/increasing-triplet-subsequence/description/) | [todo](./questions) | |
+| [俄罗斯套娃信封问题](https://leetcode.cn/problems/russian-doll-envelopes/description/) | [todo](./questions) | |
+| [最长数对链](https://leetcode.cn/problems/maximum-length-of-pair-chain/description/) | [todo](./questions) | |
+| [两个数组的交集 II](https://leetcode.cn/problems/intersection-of-two-arrays-ii/description/) | [todo](./questions) |  |
+| [数组中两个数的最大异或值](https://leetcode.cn/problems/maximum-xor-of-two-numbers-in-an-array/description/) | [todo](./questions) | |
+| [长度为 K 的最大子数组](https://leetcode.cn/problems/largest-subarray-length-k/description/) | [todo](./questions) | |
+| [整数转罗马数字](https://leetcode.cn/problems/integer-to-roman/description/) | [todo](./questions) | |
+| [长度为三且各字符不同的子字符串](https://leetcode.cn/problems/substrings-of-size-three-with-distinct-characters/description/) | [todo](./questions) | |
+| [执行操作后的变量值](https://leetcode.cn/problems/final-value-of-variable-after-performing-operations/description/) | [todo](./questions) | |
+| [padding]() | [todo](./questions) | |
+| [padding]() | [todo](./questions) | |
+| [padding]() | [todo](./questions) | |
+| [padding]() | [todo](./questions) | |
+| [padding]() | [todo](./questions) | |
 
 **动态规划三要素**
 
@@ -127,16 +143,6 @@ Algorithms
     - 确定选择: 导致状态产⽣变化的选择
     - 确定定义: 备忘录 函数
 
-## OTHER PADDINGS
-
-|  LEETCODE QUESTION |  ANSWER    | TRICK |
-|  ----------------  |  --------  | --------- |
-| [两个数组的交集 II](https://leetcode.cn/problems/intersection-of-two-arrays-ii/description/) |  |  |
-| [数组中两个数的最大异或值](https://leetcode.cn/problems/maximum-xor-of-two-numbers-in-an-array/description/) |  | |
-| [长度为 K 的最大子数组](https://leetcode.cn/problems/largest-subarray-length-k/description/) |  | |
-| [padding]() |  | |
-| [padding]() |  | |
-| [padding]() |  | |
 
 
 

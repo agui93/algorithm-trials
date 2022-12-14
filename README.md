@@ -95,21 +95,21 @@ Algorithms
 | [打开转盘锁](https://leetcode.cn/problems/open-the-lock/) | [todo](./questions) | |
 | [滑动谜题](https://leetcode.cn/problems/sliding-puzzle/) | [todo](./questions) | |
 | [零钱兑换](https://leetcode.cn/problems/coin-change/) | [solution](./questions/coin-change/solution.go) | 动态规划 |
+| [零钱兑换 II](https://leetcode.cn/problems/coin-change-ii/) | [solution](./questions/coin-change-ii/solution.go) | 动态规划 |
 | [下降路径最小和](https://leetcode.cn/problems/minimum-falling-path-sum/) | [solution](./questions/minimum-falling-path-sum/solution.go) | 动态规划 |
 | [最长递增子序列](https://leetcode.cn/problems/longest-increasing-subsequence/) | [todo](./questions/longest-increasing-subsequence/solution.go) | |
 | [最大子数组和](https://leetcode.cn/problems/maximum-subarray/) | [todo](./questions) | |
-| [最长公共子序列](https://leetcode.cn/problems/longest-common-subsequence/) | [solution](./questions/longest-common-subsequence/solution.go) | |
+| [最长公共子序列](https://leetcode.cn/problems/longest-common-subsequence/) | [solution](./questions/longest-common-subsequence/solution.go) | 动态规划 |
 | [两个字符串的删除操作](https://leetcode.cn/problems/delete-operation-for-two-strings/) | [todo](./questions) | |
 | [两个字符串的最小ASCII删除和](https://leetcode.cn/problems/minimum-ascii-delete-sum-for-two-strings/) | [todo](./questions) | |
 | [编辑距离](https://leetcode.cn/problems/edit-distance/) | [todo](./questions) | |
 | [正则表达式匹配](https://leetcode.cn/problems/regular-expression-matching/) | [todo](./questions) | |
-| [零钱兑换 II](https://leetcode.cn/problems/coin-change-ii/) | [todo](./questions) | |
 | [分割等和子集](https://leetcode.cn/problems/partition-equal-subset-sum/) | [todo](./questions) | |
 | [padding]() | [todo](./questions) | |
 | [padding]() | [todo](./questions) | |
-| [padding]() | [todo](./questions) | |
-| [padding]() | [todo](./questions) | |
-| [padding]() | [todo](./questions) | |
+| [替换数组中的元素](https://leetcode.cn/problems/replace-elements-in-an-array/description/) | [todo](./questions) | |
+| [直线上最多的点数](https://leetcode.cn/problems/max-points-on-a-line/description/) | [todo](./questions) | |
+| [奇偶跳](https://leetcode.cn/problems/odd-even-jump/description/) | [todo](./questions) | |
 | [padding]() | [todo](./questions) | |
 | [padding]() | [todo](./questions) | |
 | [padding]() | [todo](./questions) | |

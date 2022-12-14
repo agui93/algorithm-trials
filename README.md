@@ -94,6 +94,7 @@ Algorithms
 | [二叉树的最小深度](https://leetcode.cn/problems/minimum-depth-of-binary-tree/) | [todo](./questions) | |
 | [打开转盘锁](https://leetcode.cn/problems/open-the-lock/) | [todo](./questions) | |
 | [滑动谜题](https://leetcode.cn/problems/sliding-puzzle/) | [todo](./questions) | |
+| [爬楼梯](https://leetcode.cn/problems/climbing-stairs/) | [solution](./questions/climbing-stairs/solution.go) | 动态规划 |
 | [零钱兑换](https://leetcode.cn/problems/coin-change/) | [solution](./questions/coin-change/solution.go) | 动态规划 |
 | [零钱兑换 II](https://leetcode.cn/problems/coin-change-ii/) | [solution](./questions/coin-change-ii/solution.go) | 动态规划 |
 | [下降路径最小和](https://leetcode.cn/problems/minimum-falling-path-sum/) | [solution](./questions/minimum-falling-path-sum/solution.go) | 动态规划 |
@@ -105,6 +106,7 @@ Algorithms
 | [编辑距离](https://leetcode.cn/problems/edit-distance/) | [todo](./questions) | |
 | [正则表达式匹配](https://leetcode.cn/problems/regular-expression-matching/) | [todo](./questions) | |
 | [分割等和子集](https://leetcode.cn/problems/partition-equal-subset-sum/) | [todo](./questions) | |
+| [padding]() | [todo](./questions) | |
 | [padding]() | [todo](./questions) | |
 | [padding]() | [todo](./questions) | |
 | [替换数组中的元素](https://leetcode.cn/problems/replace-elements-in-an-array/description/) | [todo](./questions) | |

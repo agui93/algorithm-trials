@@ -1,11 +1,19 @@
 package invert_binary_tree
 
-type TreeNode struct {
-	Val   int
-	Left  *TreeNode
-	Right *TreeNode
-}
+import "algorithm-trials/questions/utils"
 
-func invertTree(root *TreeNode) *TreeNode {
-	return nil
+func invertTree(root *utils.TreeNode) *utils.TreeNode {
+	if root == nil {
+		return nil
+	}
+
+	//left
+	invertTree(root.Left)
+
+	//right
+	invertTree(root.Right)
+
+	root.Left, root.Right = root.Right, root.Left
+
+	return root
 }

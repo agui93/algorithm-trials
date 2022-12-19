@@ -50,9 +50,11 @@ Algorithms
 | [padding]() | [todo](./questions) | |
 | [padding]() | [todo](./questions) | |
 | [padding]() | [todo](./questions) | |
-| [padding]() | [todo](./questions) | |
-| [padding]() | [todo](./questions) | |
 | [二叉树的前序遍历](https://leetcode.cn/problems/binary-tree-preorder-traversal/) | [solution](./questions/binary-tree-preorder-traversal/solution.go) | 二叉树 前序遍历 |
+| [二叉树的中序遍历](https://leetcode.cn/problems/binary-tree-inorder-traversal/description/) | [solution](./questions/binary-tree-inorder-traversal/solution.go) | 二叉树 中序遍历 |
+| [二叉树的后序遍历](https://leetcode.cn/problems/binary-tree-postorder-traversal/description/) | [solution](./questions/binary-tree-postorder-traversal/solution.go) | 二叉树 后序遍历 |
+| [padding]() | [todo](./questions) | |
+| [padding]() | [todo](./questions) | |
 | [padding]() | [todo](./questions) | |
 | [翻转二叉树](https://leetcode.cn/problems/invert-binary-tree/) | [solution](./questions/invert-binary-tree/solution.go) | 二叉树 递归 |
 | [二叉树展开为链表](https://leetcode.cn/problems/flatten-binary-tree-to-linked-list/) | [solution](./questions/flatten-binary-tree-to-linked-list/solution.go) | 二叉树 递归 |
@@ -74,9 +76,14 @@ Algorithms
 | [不同的二叉搜索树 II](https://leetcode.cn/problems/unique-binary-search-trees-ii/) | [todo](./questions) | |
 | [padding]() | [todo](./questions) | |
 | [padding]() | [todo](./questions) | |
+| [padding]() | [todo](./questions) | |
+| [padding]() | [todo](./questions) | |
 | [可能的二分法](https://leetcode.cn/problems/possible-bipartition/description/) | [todo](./questions) | |
 | [在二叉树中增加一行](https://leetcode.cn/problems/add-one-row-to-tree/description/) | [todo](./questions) | |
 | [扁平化多级双向链表](https://leetcode.cn/problems/flatten-a-multilevel-doubly-linked-list/description/) | [todo](./questions) | |
+| [padding]() | [todo](./questions) | |
+| [padding]() | [todo](./questions) | |
+| [padding]() | [todo](./questions) | |
 | [padding]() | [todo](./questions) | |
 | [所有可能的路径](https://leetcode.cn/problems/all-paths-from-source-to-target/) | [todo](./questions) | |
 | [课程表](https://leetcode.cn/problems/course-schedule/) | [todo](./questions) | |

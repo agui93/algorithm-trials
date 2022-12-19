@@ -53,9 +53,6 @@ Algorithms
 | [二叉树的前序遍历](https://leetcode.cn/problems/binary-tree-preorder-traversal/) | [solution](./questions/binary-tree-preorder-traversal/solution.go) | 二叉树 前序遍历 |
 | [二叉树的中序遍历](https://leetcode.cn/problems/binary-tree-inorder-traversal/description/) | [solution](./questions/binary-tree-inorder-traversal/solution.go) | 二叉树 中序遍历 |
 | [二叉树的后序遍历](https://leetcode.cn/problems/binary-tree-postorder-traversal/description/) | [solution](./questions/binary-tree-postorder-traversal/solution.go) | 二叉树 后序遍历 |
-| [padding]() | [todo](./questions) | |
-| [padding]() | [todo](./questions) | |
-| [padding]() | [todo](./questions) | |
 | [翻转二叉树](https://leetcode.cn/problems/invert-binary-tree/) | [solution](./questions/invert-binary-tree/solution.go) | 二叉树 递归 |
 | [二叉树展开为链表](https://leetcode.cn/problems/flatten-binary-tree-to-linked-list/) | [solution](./questions/flatten-binary-tree-to-linked-list/solution.go) | 二叉树 递归 |
 | [填充每个节点的下一个右侧节点指针](https://leetcode.cn/problems/populating-next-right-pointers-in-each-node/) | [todo](./questions) | |
@@ -64,6 +61,8 @@ Algorithms
 | [从中序与后序遍历序列构造二叉树](https://leetcode.cn/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | [todo](./questions) | |
 | [寻找重复的子树](https://leetcode.cn/problems/find-duplicate-subtrees/) | [todo](./questions) | |
 | [二叉树的序列化与反序列化](https://leetcode.cn/problems/serialize-and-deserialize-binary-tree/) | [todo](./questions) | |
+| [验证二叉搜索树](https://leetcode.cn/problems/validate-binary-search-tree/description/) | [todo](./questions/validate-binary-search-tree/solution.go) | 二叉搜索树 |
+| [二叉搜索树中的众数](https://leetcode.cn/problems/find-mode-in-binary-search-tree/description/) | [todo](./questions) | |
 | [二叉搜索子树的最大键值和](https://leetcode.cn/problems/maximum-sum-bst-in-binary-tree/) | [todo](./questions) | |
 | [二叉搜索树中第K小的元素](https://leetcode.cn/problems/kth-smallest-element-in-a-bst/) | [todo](./questions) | |
 | [把二叉搜索树转换为累加树](https://leetcode.cn/problems/convert-bst-to-greater-tree/) | [todo](./questions) | |
@@ -155,6 +154,17 @@ Algorithms
 | [padding]() | [todo](./questions) | |
 | [padding]() | [todo](./questions) | |
 | [padding]() | [todo](./questions) | |
+
+** 二叉树的遍历 **
+
+- 遍历方法
+    - 前序遍历(中 左 右)
+    - 中序遍历(左 中 右)
+    - 后序遍历(左 右 中)
+- [遍历技巧](https://leetcode.cn/problems/binary-tree-preorder-traversal/solutions/87526/leetcodesuan-fa-xiu-lian-dong-hua-yan-shi-xbian-2/)
+    - 递归遍历
+    - 迭代遍历
+    - Morris遍历
 
 **动态规划三要素**
 
